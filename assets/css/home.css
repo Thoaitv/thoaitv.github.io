@@ -1,0 +1,29 @@
+.box {
+    padding: 20px 20px 12px 20px;
+    background-color: #ccccccb5;
+    border-radius: 20px;
+}
+
+.box .far,
+.fas {
+    font-size: 27px;
+}
+
+.box .content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box .content h4 {
+    margin: 0;
+}
+
+.box .detail {
+    margin-top: 5px;
+    display: block;
+    font-weight: 500;
+}
+
+.box .content .far .fas {
+    color: white;
+}

@@ -1,0 +1,11 @@
+.navbar .form-control {
+    border-radius: 100px;
+}
+
+.navbar .btn {
+    border-radius: 100px;
+}
+
+#cover img {
+    height: 100vh;
+}
